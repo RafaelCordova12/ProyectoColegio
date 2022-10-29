@@ -24,6 +24,8 @@ public class PrincipalColegio {
                 new ArrayList<>(List.of("GEOMETRIA","QUIMICA"))));
         profesores.add(new Profesor("81941243", "NEHIL", "VARA", "AM341",
                 new ArrayList<>(List.of("TRIGONOMETRIA","ALGEBRA","FISICA"))));
+        profesores.add(new Profesor("82352353", "LUFER", "VARA", "AM341",
+                new ArrayList<>(List.of("TRIGONOMETRIA","ALGEBRA","FISICA"))));
 /*
         try{
             // PASO 4.1: "CREATE" -> Metemos los objetos PROFESOR en la coleccion PROFESORES
